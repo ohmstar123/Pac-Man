@@ -47,14 +47,7 @@ namespace Pac_Man
             g.FillPie(PacBrush, 0, 60, 60, 60, 55, 260);
             Thread.Sleep(500);
             
-            
-
-
-
-
-
-
-
+           
         }
     }
 }
